@@ -1,8 +1,9 @@
-#+TITLE: Awesome 大学ビジョン
+#+TITLE: Awesome大学ビジョン
 
 * 概要
 このファイルには「ビジョン2030」「ビジョン2040」「ビジョン2050」に類した名称で日本の大学が掲げているwebページのURLをまとめる。
 Awesome listの形式を装っているが、curationは行っていない。
+ライセンスは[[file:LICENSE][CC0]]。
 
 * 構成について
 - 各一覧ではURLに含まれる大学のドメイン名のアルファベット順に並べる。
@@ -141,4 +142,42 @@ https://www.musashino-u.ac.jp/guide/activities/mu2050vision.html
 ** okayama-u.ac.jp
 岡山大学ビジョン3.0・岡山大学長期ビジョン2050
 https://www.okayama-u.ac.jp/tp/profile/ou-vision.html
+
+* ビジョン150
+
+** fukujo.ac.jp
+FUKUOKA JO GAKUIN VISION 150/2035
+https://www.fukujo.ac.jp/university/about/vision150
+
+** gakushuin.ac.jp
+学習院VISION150
+https://www.gakushuin.ac.jp/houjin/kikaku/operation.html
+
+** kansai-u.ac.jp
+Kandai Vision 150
+https://www.kansai-u.ac.jp/kikaku/ku-keieirinen/
+
+** kogakuin.ac.jp
+工学院大学 VISION150
+https://www.kogakuin.ac.jp/about/action/vision150.html
+
+** meiji.ac.jp
+MEIJI VISION 150
+https://www.meiji.ac.jp/koho/meijivision150/
+
+** ris.ac.jp
+RISSHO VISION 150
+https://www.ris.ac.jp/vision150/
+
+** tohoku-gakuin.ac.jp
+TG Grand Vision 150（東北学院大学中期計画）
+https://www.tohoku-gakuin.ac.jp/about/torikumi/mid_term_objectives.html
+
+** tus.ac.jp
+TUS VISION 150
+https://www.tus.ac.jp/tusvision150/
+
+** waseda.jp
+Waseda Vision 150
+https://www.waseda.jp/inst/vision150/
 
