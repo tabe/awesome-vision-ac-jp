@@ -11,173 +11,173 @@ Awesome listの形式を装っているが、curationは行っていない。
 
 * ビジョン2030
 
-** apu.ac.jp
+** apu.ac.jp: 立命館アジア太平洋大学
 APU2030ビジョンとチャレンジ・デザイン
 https://www.apu.ac.jp/home/about/content7/
 
-** fujita-hu.ac.jp
+** fujita-hu.ac.jp: 藤田医科大学
 藤田学園ビジョン
 https://academy.fujita-hu.ac.jp/about/vision.html
 
-** gifu-u.ac.jp
+** gifu-u.ac.jp: 岐阜大学
 岐阜大学 地域展開ビジョン2030
 https://www.gifu-u.ac.jp/research/plan/area_vision_2030.html
 
-** hosei.ac.jp
+** hosei.ac.jp: 法政大学
 長期ビジョン「HOSEI2030」
 http://hosei2030.hosei.ac.jp/
 
-** ibaraki.ac.jp
+** ibaraki.ac.jp: 茨城大学
 イバダイ・ビジョン2030
 https://www.ibaraki.ac.jp/generalinfo/vision/
 
-** iwate-u.ac.jp
+** iwate-u.ac.jp: 岩手大学
 岩手大学ビジョン2030
 https://www.iwate-u.ac.jp/about/iwateuniv/iwate-u-vision2030.html
 
-** kindai.ac.jp
+** kindai.ac.jp: 近畿大学
 学校法人近畿大学 長期ビジョン2030
 https://www.kindai.ac.jp/about-kindai/disclosure/vision/
 
-** koka.ac.jp
+** koka.ac.jp: 光華女子学園
 光華ビジョン2030
 https://gakuen.koka.ac.jp/koka80th/vision/
 
-** komazawa-u.ac.jp
+** komazawa-u.ac.jp: 駒澤大学
 学校法人駒澤大学長期ビジョン「駒澤2030」
 https://www.komazawa-u.ac.jp/about/disclosure/vision2030.html
 
-** kumamoto-u.ac.jp
+** kumamoto-u.ac.jp: 熊本大学
 熊本大学イニシアティブ2030
 https://www.kumamoto-u.ac.jp/daigakujouhou/gaiyo/initiative2030
 
-** kyushu-u.ac.jp
+** kyushu-u.ac.jp: 九州大学
 Kyushu University VISION 2030
 https://www.kyushu-u.ac.jp/ja/university/president/vision/
 
-** meiji.ac.jp
+** meiji.ac.jp: 明治大学
 明治大学グランドデザイン2030
 https://www.meiji.ac.jp/gakucho/granddesign2030/
 
-** mie-u.ac.jp
+** mie-u.ac.jp: 三重大学
 三重大学ビジョン2030
 https://www.mie-u.ac.jp/profile/vision2030/vision2030.html
 
-** naist.jp
+** naist.jp: 奈良先端科学技術大学院大学
 NAIST 学長ビジョン2030
 http://www.naist.jp/about/president/vision2030.html
 
-** niigata-u.ac.jp
+** niigata-u.ac.jp: 新潟大学
 新潟大学将来ビジョン2030
 https://www.niigata-u.ac.jp/university/about/vision/vision2030/
 
-** omu.ac.jp
+** omu.ac.jp: 大阪公立大学
 大阪公立大学ビジョン2030
 https://www.omu.ac.jp/about/president/vision/
 
-** saga-u.ac.jp
+** saga-u.ac.jp: 佐賀大学
 佐賀大学のこれから －ビジョン2030ー​
 https://vision.saga-u.ac.jp/
 
-** shinshu-u.ac.jp
+** shinshu-u.ac.jp: 信州大学
 信州大学長期ビジョン"VISION2030"
 https://www.shinshu-u.ac.jp/guidance/policy/plan/next/vision2030/
 
-** tmu.ac.jp
+** tmu.ac.jp: 東京都立大学
 TMU Vision 2030
 https://www.tmu.ac.jp/university/philosophy/tmu_vision.html
 
-** tohoku.ac.jp
+** tohoku.ac.jp: 東北大学
 東北大学ビジョン2030
 https://www.tohoku.ac.jp/japanese/profile/vision/
 
-** tottori-u.ac.jp
+** tottori-u.ac.jp: 鳥取大学
 鳥取大学ビジョン2030
 https://www.tottori-u.ac.jp/6009.htm
 
-** tsuda.ac.jp
+** tsuda.ac.jp: 津田塾大学
 Tsuda Vision 2030
 https://www.tsuda.ac.jp/aboutus/vision2030.html
 
-** tsukuba.ac.jp
+** tsukuba.ac.jp: 筑波大学
 筑波大学Vision 2030
 https://www.tsukuba.ac.jp/about/vision2030/
 
-** yamaguchi-u.ac.jp
+** yamaguchi-u.ac.jp: 山口大学
 明日の山口大学ビジョン2030
 https://www.yamaguchi-u.ac.jp/info/university_vision/
 
 * ビジョン2040
 
-** hokudai.ac.jp
+** hokudai.ac.jp: 北海道大学
 2040年に向けた北海道大学の国際戦略
 https://www.hokudai.ac.jp/international3/internationalization/global-vision2040/
 
-** kaiyodai.ac.jp
+** kaiyodai.ac.jp: 東京海洋大学
 東京海洋大学 ビジョン2040・アクションプラン
 https://www.kaiyodai.ac.jp/overview/president/2040.html
 
-** miyazaki-u.ac.jp
+** miyazaki-u.ac.jp: 宮崎大学
 宮崎大学未来Vision for 2040
 https://www.miyazaki-u.ac.jp/guide/futurevision/
 
-** oita-u.ac.jp
+** oita-u.ac.jp: 大分大学
 大分大学ビジョン2040
 https://www.oita-u.ac.jp/data/vision.html
 
-** u-fukui.ac.jp
+** u-fukui.ac.jp: 福井大学
 福大ビジョン2040
 https://www.u-fukui.ac.jp/cont_about/about/fukudaivision2040/
 
-** uoeh-u.ac.jp
+** uoeh-u.ac.jp: 産業医科大学
 産業医大未来構想 2040　～長期ビジョン～
 https://www.uoeh-u.ac.jp/University/Corporation/koso2040.html
 
 * ビジョン2050
 
-** musashino-u.ac.jp
+** musashino-u.ac.jp: 武蔵野大学
 武蔵野大学2050VISION
 https://www.musashino-u.ac.jp/guide/activities/mu2050vision.html
 
-** okayama-u.ac.jp
+** okayama-u.ac.jp: 岡山大学
 岡山大学ビジョン3.0・岡山大学長期ビジョン2050
 https://www.okayama-u.ac.jp/tp/profile/ou-vision.html
 
 * ビジョン150
 
-** fukujo.ac.jp
+** fukujo.ac.jp: 福岡女学院大学
 FUKUOKA JO GAKUIN VISION 150/2035
 https://www.fukujo.ac.jp/university/about/vision150
 
-** gakushuin.ac.jp
+** gakushuin.ac.jp: 学習院
 学習院VISION150
 https://www.gakushuin.ac.jp/houjin/kikaku/operation.html
 
-** kansai-u.ac.jp
+** kansai-u.ac.jp: 関西大学
 Kandai Vision 150
 https://www.kansai-u.ac.jp/kikaku/ku-keieirinen/
 
-** kogakuin.ac.jp
+** kogakuin.ac.jp: 工学院大学
 工学院大学 VISION150
 https://www.kogakuin.ac.jp/about/action/vision150.html
 
-** meiji.ac.jp
+** meiji.ac.jp: 明治大学
 MEIJI VISION 150
 https://www.meiji.ac.jp/koho/meijivision150/
 
-** ris.ac.jp
+** ris.ac.jp: 立正大学学園
 RISSHO VISION 150
 https://www.ris.ac.jp/vision150/
 
-** tohoku-gakuin.ac.jp
+** tohoku-gakuin.ac.jp: 東北学院大学
 TG Grand Vision 150（東北学院大学中期計画）
 https://www.tohoku-gakuin.ac.jp/about/torikumi/mid_term_objectives.html
 
-** tus.ac.jp
+** tus.ac.jp: 東京理科大学
 TUS VISION 150
 https://www.tus.ac.jp/tusvision150/
 
-** waseda.jp
+** waseda.jp: 早稲田大学
 Waseda Vision 150
 https://www.waseda.jp/inst/vision150/
 
